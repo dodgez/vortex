@@ -7,7 +7,7 @@ This is a _very_ opinionated template including the following frameworks and web
 - ESLint
 - Prettier
 - Material UI (with icons and Roboto font)
-- Vite
+- Vite with Vitest
 - Zustand
 
 ## Included eslint plugins
