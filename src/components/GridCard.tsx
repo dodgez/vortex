@@ -12,7 +12,7 @@ export default function GridCard({
   content: ReactNode;
 }) {
   return (
-    <Grid>
+    <Grid size={{ md: 4, sm: 6, xs: 12 }}>
       <Card sx={{ maxWidth: 275, mx: 'auto' }}>
         <CardContent>{content}</CardContent>
         {actions && <CardActions>{actions}</CardActions>}

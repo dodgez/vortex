@@ -3,6 +3,8 @@
 This is a _very_ opinionated template including the following frameworks and web technologies:
 
 - React
+- React Router
+- TanStack Query
 - TypeScript
 - ESLint
 - Prettier
