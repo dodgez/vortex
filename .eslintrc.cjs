@@ -1,3 +1,4 @@
+// eslint-plugin-import doesn't support flat config yet: https://github.com/import-js/eslint-plugin-import/issues/2556
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
